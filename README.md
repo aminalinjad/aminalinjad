@@ -6,7 +6,7 @@ creative Front-End Developer Offering 6+ years of experience providing high-impa
 <h3 align="left">Languages and Tools:</h3>
 <p>
 
-  <img alt="Java" src="https://img.shields.io/badge/-JAVA-DD0031?style=flat-square&logo=openjdk&logoColor=black" width="80" height="30"/>
+  ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
   <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" width="90" height="30"/>
   <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat-square&logo=Spring boot&logoColor=white" width="130" height="30"/>
   <img alt="Apache Maven" src="https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=Apache Maven&logoColor=white" width="90" height="30"/>
