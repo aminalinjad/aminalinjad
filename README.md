@@ -60,8 +60,6 @@ I'm a creative Front-End Developer with 7+ years of experience delivering high-i
 <summary>GitHub Metrics</summary>
 <br>
 
-![Amin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aminalinjad&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aminalinjad&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aminalinjad&theme=radical)
